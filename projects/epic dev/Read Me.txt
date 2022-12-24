@@ -1,0 +1,18 @@
+Epic Dev deployment
+Author: Douglas Kadzutu
+License: MIT
+Nodejs-Express-Postgress-Vue2
+
+How to setup:
+1) Clone git repo or extract zip folder
+2) Run Postgress v11.6 or higher
+3) Create Database called contact_db
+4) Install node
+5) navigate to "Backend" in terminal and run npm install
+6) run npm start
+7) navigate to frontend with a second terminal
+8) run "npm run serve"
+9) Program running on port 8081 and serve is served on Port 8082
+
+
+******************END********************** 
